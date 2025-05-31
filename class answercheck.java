@@ -1,13 +1,16 @@
-class answercheck
-public static void main (string[]args)
+class AnswerCheck{
+public static void main (String[]args){
 {
     
-    int i ;
-
-    if(int i==1)
+    int i=1;
+    if(i==1)
     {
     System.out.println("answer is correct");
     }
     else
+    
     System.out.println("answer is incorrect");
+
+}
+}
 }

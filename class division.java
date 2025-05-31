@@ -1,11 +1,14 @@
-class division
-public static void main(string[]args)
+class Division{
+public static void main(String[]args){
 {
     int a=10;
     int b=5;
     int c;
 
-    int c= a/b;
+     c= a/b;
 
     System.out.println(c);
 }
+}
+}
+

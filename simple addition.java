@@ -1,11 +1,10 @@
-class add
-public static void main (string[]args);
+class Add{
+public static void main (String[]args)
 {
-    int n1=3;
-    int n2=2;
+    int n1=4;
+    int n2=8;
     int sum;
 
-    sum=n1+n2;
-    system.out.println("sum of two numbers");
-
+     System.out.println(n1+n2);
+}
 }

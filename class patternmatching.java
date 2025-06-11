@@ -1,8 +1,9 @@
-class patternmatching
-public static void main(string[]args)
+class PatternMatching{
+public static void main(String[]args)
 {
         System.out.println("****");
         System.out.println("***");
         System.out.println("**");
         System.out.println("*");
+}
 }

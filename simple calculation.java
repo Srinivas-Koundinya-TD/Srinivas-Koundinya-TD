@@ -1,11 +1,11 @@
-class simple calculation
-public static void main (string[]args)
+class SimpleCalculation{
+public static void main(String[]args)
 {
     int a=8;
     int b=2;
-    int c;
+    int c=8;
+    int d= a+(b*c)/a; 
 
-    int c= a+(b*C)/a 
-
-    system.out.print(c);
+    System.out.print(d);
+}
 }

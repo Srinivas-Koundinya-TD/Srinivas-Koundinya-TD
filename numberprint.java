@@ -1,12 +1,12 @@
-class numberprint
-public static void main (string[]args)
+class NumberPrint{
+public static void main (String[]args)
 {
     int n;
     
-    for(n=0;n<=10;n++)
+    for(n=0;n<=50;n++)
     {
 
         System.out.println(n);
     }
-
+}
 }

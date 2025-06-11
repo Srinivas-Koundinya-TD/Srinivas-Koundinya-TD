@@ -1,9 +1,9 @@
-class numbercheck
-public static void main(string[]args)
+class NumberCheck{
+public static void main(String[]args)
 {
-    int n;
+    int n=5;
 
-    if(n>=10){
+    if (n>=10){
     
     System.out.println("n is greater than 10");
     }
@@ -11,4 +11,4 @@ public static void main(string[]args)
     else
         System.out.println("n is smaller than 10");
 }
-
+}

@@ -1,10 +1,12 @@
-class numbers
-public static void main(string[]args)
+class Numbers{
+public static void main(String[]args)
 {
-    Scanner scanner = new Scanner(System.in);
+    
     int i;
-    for(i=0;i<10;i++){
+    for(i=0;i<10;i++)
+    {
 
-        System.out.println("printing the numbers from 1 to 10");
+        System.out.println(i+1);
     }
+}
 }

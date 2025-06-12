@@ -1,9 +1,10 @@
-class main;
-public satatic void main(string[]args);
+class Main{
+public static void main(String[]args)
 {
-    int a= 2
-    int b
-    b=a++
-    system.out.println(a);
-    system.out.println(b);
+    int a=2;
+    int b;
+    b=a++;
+    System.out.println(a);
+    System.out.println(b);
+}
 }

@@ -1,15 +1,13 @@
-class main;
-public static void main(string[]args);
+class Main{
+public static void main(String[]args)
 {
     int a=9;
     int b=6;
     int res;
 
-    a++;
-    b++;
-
+    a =++a;
+    b= --b;
     res= a-b;
-    system.out.print(res);
-
-
+    System.out.print(res);
+}
 }
